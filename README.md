@@ -2,7 +2,7 @@
 Hello World of Git
 ========================
 
-Learning how to GIT.
+Learning how to Git.
 
 TODO:
  * Choose a project idea
